@@ -1,0 +1,19 @@
+* {
+    padding: 0;
+    margin: 0;
+    
+}
+
+.header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 8vh;
+    background-color: rgb(149, 149, 241);
+    color:rgb(149, 149, 241);
+    text-shadow: 1px 1px 6px black;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    position: sticky;
+    top:0;
+    z-index: 1;
+}
